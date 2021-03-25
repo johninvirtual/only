@@ -1,0 +1,1 @@
+A ONLY project, which tries to accomplish something using particular technology (or technologies)
